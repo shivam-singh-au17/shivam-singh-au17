@@ -40,11 +40,17 @@
 </p>
 <hr>
 
+
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
+
+<hr>
 
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
 
 <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&theme=chartreuse-dark"/></P>

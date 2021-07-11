@@ -1,12 +1,18 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivam Singh </h1>
-<!-- <h1><samp><strong>Hey there :raising_hand_man:,	I'm Shivam Singh </strong></samp></h1>  -->
+<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
+<h5><i>Happy Coding!</i> 😊</h5>
+<hr>
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🧠 I’m currently persuing **full stack web developer course**.
+- 🤔 I use daily ```.js```,``` .py```, ```.html```
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for **full stack web developer role**.
+
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
  <hr>
 
@@ -42,7 +48,7 @@
 
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
 
@@ -52,10 +58,19 @@
 
 
 
-<p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&theme=chartreuse-dark"/></P>
+ <p align="left">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> </p>
 
-<p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&theme=chartreuse-dark&show_icons=true&count_private=true" height="207px" /></P>
+<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  /></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="410"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark" height="250px" /></p>
+
+<hr>
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<hr>

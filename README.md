@@ -17,7 +17,7 @@
   <a href="mailto:shivamsingh4458@gmail.com">
     <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px"  />
   </a>
-  <a href="https://https://www.linkedin.com/in/shivamsingh4458/">
+  <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
     <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/shivam-singh-au17/">

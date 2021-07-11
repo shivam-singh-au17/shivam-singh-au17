@@ -1,5 +1,6 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
-<h1><samp><strong>Hey there :raising_hand_man:,	I'm Shivam Singh </strong></samp></h1> 
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivam Singh </h1>
+<!-- <h1><samp><strong>Hey there :raising_hand_man:,	I'm Shivam Singh </strong></samp></h1>  -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -42,9 +43,9 @@
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&theme=tokyonight"/></P>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&theme=chartreuse-dark"/></P>
 
 <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&theme=tokyonight&show_icons=true&count_private=true" height="207px" /></P>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&theme=chartreuse-dark&show_icons=true&count_private=true" height="207px" /></P>
 
-<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=tokyonight" height="250px" /></p>
+<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark" height="250px" /></p>

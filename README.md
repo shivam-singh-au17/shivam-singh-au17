@@ -1,4 +1,4 @@
-<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="250" />
+<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 <h1><samp><strong>Hey there :raising_hand_man:,	I'm Shivam Singh </strong></samp></h1> 
 
 <h3> About me: </h3>

@@ -1,7 +1,7 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 <h1><samp><strong>Hey there :raising_hand_man:,	I'm Shivam Singh </strong></samp></h1> 
 
-<h3> About me: </h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🧠 I’m currently persuing **full stack web developer course**.
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
@@ -9,7 +9,7 @@
 
  <hr>
 
-<h4>Connect with me 🏡:<h4>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
     <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
@@ -30,7 +30,7 @@
 
 
  <hr>
-<h4> 🔭<samp> Technologies and Tools:</samp></h4>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
 <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -39,6 +39,7 @@
 </p>
 <hr>
 
+ <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&theme=tokyonight"/></P>

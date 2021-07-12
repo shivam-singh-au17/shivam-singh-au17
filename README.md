@@ -9,8 +9,12 @@
 
 - 🧠 I’m currently persuing **full stack web developer course**.
 - 🤔 I use daily ```.js```,``` .py```, ```.html```
-- 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for **full stack web developer role**.
+- 🛠 I’m currently learning **ReactJS** & **NodeJS**<br>
+- 🔥 I use to write coad on [leetcode](https://leetcode.com/shivam-singh-au17/) <br>
+- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
+- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
+- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
+- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
@@ -73,6 +77,6 @@
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 <hr>
 

@@ -15,8 +15,6 @@
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="200px"/>
-
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
  <hr>
@@ -74,6 +72,8 @@
 
 
 <hr clear="both">
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="200px"/>
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

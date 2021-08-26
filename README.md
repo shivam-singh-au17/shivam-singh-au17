@@ -70,6 +70,10 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="381" /></p>
 <br><br><br><br><br><br>
 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-singh-au17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
 
 <hr clear="both">
 

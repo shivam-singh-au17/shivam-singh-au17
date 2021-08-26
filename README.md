@@ -68,7 +68,12 @@
  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="381"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="381" /></p>
-<br><br><br><br><br><br>
+
+<p align="center">
+  <a href="https://github.com/shivam-singh-au17"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
+    </span></a>
+</p>
 
  <br />
  
@@ -83,5 +88,5 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-<hr>
-
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)

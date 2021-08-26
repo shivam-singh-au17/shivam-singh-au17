@@ -61,19 +61,26 @@
 
 
 
- <p align="left">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> </p>
+<p align="left">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
 
-<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  /></p>
- <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="381"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="381" /></p>
+<p align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />
+</p>
+ 
+<p>
+<a href="https://github.com/shivam-singh-au17"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="385"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="385" />
+</span></a> </p>
+
+<hr clear="both">
 
 <p align="center">
-  <a href="https://github.com/shivam-singh-au17"><span>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
-    </span></a>
-</p>
+<a href="https://github.com/shivam-singh-au17"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
+</span></a> </p>
 
  <br />
  

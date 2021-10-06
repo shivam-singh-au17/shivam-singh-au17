@@ -39,7 +39,6 @@
 <br>
 <br>
 
-
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
 <p >
@@ -68,7 +67,6 @@
 <hr>
 
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 
 
 <p align="left">

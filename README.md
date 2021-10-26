@@ -19,7 +19,6 @@
 
  <hr>
 
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">

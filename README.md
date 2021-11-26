@@ -19,7 +19,8 @@
 
  <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />

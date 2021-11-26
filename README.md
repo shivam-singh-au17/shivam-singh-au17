@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="300" height="300" />
+<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
 <br>

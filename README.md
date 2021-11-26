@@ -19,16 +19,20 @@
 
  <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
-    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:shivamsingh4458@gmail.com">
     <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px"  />
   </a>
+ <a href="https://medium.com/@shivamsingh4458">
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
+  </a>
   <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" />
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/shivam-singh-au17/">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png" width="24px"  />

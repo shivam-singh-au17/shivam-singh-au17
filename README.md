@@ -5,15 +5,16 @@
 <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-- 🧠 I’m currently persuing **full stack web developer course**.
+<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="300" height="300" />
+- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .py```, ```.html```
-- 🛠 I’m currently learning **ReactJS** & **NodeJS**<br>
-- 🔥 I use to write coad on [leetcode](https://leetcode.com/shivam-singh-au17/) <br>
+- 🛠 I’m currently learning about **deep learning**🥰<br>
+- 🔥 I use to write coad on **[leetcode](https://leetcode.com/shivam-singh-au17/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
@@ -26,7 +27,7 @@
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:shivamsingh4458@gmail.com">
-    <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px"  />
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
  <a href="https://medium.com/@shivamsingh4458">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
@@ -35,7 +36,7 @@
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/shivam-singh-au17/">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png" width="24px"  />
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a>
 </p>
 

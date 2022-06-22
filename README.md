@@ -1,13 +1,13 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there, I'm Shivam Singh </h1>
+<h1 align="left" >Hey there <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Shivam Singh </h1>
 
 <h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
 
-***About me ....***
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .py```, ```.html```
@@ -23,7 +23,7 @@
 
  <hr>
 
-***Connect with me ....*** 
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
 <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 
@@ -52,7 +52,7 @@
 <br>
 
  <hr>
- <h4>My working tools..</h4>
+ <h4><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h4>
 <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -73,7 +73,7 @@
 <hr>
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center"><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
 
@@ -83,7 +83,7 @@
 
 
 <p align="left">
-<i><b>🐱My Github stats:</b></i> 
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
 <p align="left" >

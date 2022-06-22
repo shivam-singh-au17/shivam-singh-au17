@@ -24,7 +24,7 @@
  <hr>
 
 ***Connect with me ....*** 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 
 <p>
@@ -46,6 +46,7 @@
 </p>
 
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+
 
 <br>
 <br>

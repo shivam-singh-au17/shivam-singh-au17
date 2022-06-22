@@ -72,7 +72,7 @@
 <hr>
 
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+<h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
 
@@ -82,7 +82,7 @@
 
 
 <p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+<i><b>🐱My Github stats:</b></i> 
 </p>
 
 <p align="left" >

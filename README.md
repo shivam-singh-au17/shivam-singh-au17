@@ -10,9 +10,9 @@
 <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .py```, ```.html```
+- 🤔 I use daily ```.js```,```.ts```, ```.html```
 - 🛠 I’m currently learning about **deep learning**🥰<br>
-- 🔥 I use to write coad on **[leetcode](https://leetcode.com/shivam-singh-au17/)** <br>
+- 🔥 I use to write code on **[leetcode](https://leetcode.com/shivam-singh-au17/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>

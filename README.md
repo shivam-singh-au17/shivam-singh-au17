@@ -54,21 +54,35 @@
  <hr>
  <h4><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h4>
 <p >
- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/python%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=dcad11" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AdonisJs%20-%234284F4.svg?&style=for-the-badge&logo=AdonisJs&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitLab%20-%23FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/BitBucket%20-%2300538A.svg?&style=for-the-badge&logo=BitBucket&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swagger%20-%2385EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jira%20-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
  <br/>
- <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=41011c&logo=Figma&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=f00604&logo=Sass&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
- <br/>
- <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;                      
+<img src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Serverless%20-%23FD5750.svg?&style=for-the-badge&logo=Serverless&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 
@@ -103,11 +117,6 @@
 <a href="https://github.com/shivam-singh-au17"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
 </span></a> </p>
-
- <br/>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-singh-au17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 
 <hr clear="both">
 

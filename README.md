@@ -10,7 +10,7 @@
 <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,```.ts```, ```.html```
+- 🤔 I use daily ```.js```,```.ts```, ```.html``` & ```.yaml```
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🔥 I use to write code on **[leetcode](https://leetcode.com/shivam-singh-au17/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**

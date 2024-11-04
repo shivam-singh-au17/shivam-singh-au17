@@ -2,7 +2,7 @@
 
 <h1 align="left" >Hey there <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Shivam Singh </h1>
 
-<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
+<h4><samp><strong>Thanks for stopping by my GitHub profile. Here, you’ll find a variety of projects I’m working on, and I’m always open to fresh ideas and improvements. Feel free to 🌟 clone or fork any repository that catches your interest, dive into the code, and see what you can build or enhance. 🛠️ If you spot any issues or have suggestions, don’t hesitate to raise them – collaboration is always welcome! And if you’re inspired to contribute, submitting a pull request would be fantastic. Let’s work together to make these projects even better! 🚀</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 

@@ -137,6 +137,8 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white" /></td>
   </tr>
 </table>
 
@@ -152,12 +154,24 @@
 
 ### Design & Project Management
 <table>
+   <tr>
+    <td><img src="https://img.shields.io/badge/Confluence%20-%23172BF4.svg?&style=for-the-badge&logo=Confluence&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Asana%20-%23FC636B.svg?&style=for-the-badge&logo=Asana&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Miro%20-%23008FFE.svg?&style=for-the-badge&logo=Miro&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Linear%20-%23E2335D.svg?&style=for-the-badge&logo=Linear&logoColor=white" /></td>
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Jira%20-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white" /></td>
   </tr>
 </table>
 
+### API Development & Testing
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white" /></td>
+  </tr>
+</table>
 
 
 </p>

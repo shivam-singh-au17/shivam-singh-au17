@@ -57,34 +57,108 @@
  <hr>
  <h4><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h4>
 <p >
-<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AdonisJs%20-%234284F4.svg?&style=for-the-badge&logo=AdonisJs&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitLab%20-%23FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/BitBucket%20-%2300538A.svg?&style=for-the-badge&logo=BitBucket&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Swagger%20-%2385EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jira%20-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Serverless%20-%23FD5750.svg?&style=for-the-badge&logo=Serverless&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white" />&nbsp;&nbsp;
+ 
+### Frontend
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Redux.js%20-%23593D88.svg?&style=for-the-badge&logo=Redux&logoColor=white" /></td>
+  </tr>
+</table>
+
+### Backend
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/NestJS%20-%23E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GraphQL%20-%E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Apollo%20GraphQL%20-%233E88FF.svg?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AdonisJs%20-%234284F4.svg?&style=for-the-badge&logo=AdonisJs&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Embedded%20JavaScript%20(EJS)%20-%2309B1B1.svg?&style=for-the-badge&logo=EJS&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Socket.io%20-%233E5B99.svg?&style=for-the-badge&logo=Socket.io&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Swagger%20-%2385EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Cron%20-%234B5D8C.svg?&style=for-the-badge&logo=cron&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Sequelize%20-%234B3B8C.svg?&style=for-the-badge&logo=Sequelize&logoColor=white" /></td>
+  </tr>
+</table>
+
+### Databases
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Amazon%20DynamoDB%20-%23231F20.svg?&style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /></td>
+  </tr>
+</table>
+
+### DevOps & Cloud
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Amazon%20EC2%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS%20Lambda%20-%234B3B8C.svg?&style=for-the-badge&logo=AWS%20Lambda&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Amazon%20S3%20-%234B8BBE.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS%20CodeBuild%20-%23F9C24D.svg?&style=for-the-badge&logo=AWS%20CodeBuild&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS%20CodePipeline%20-%23E7B94A.svg?&style=for-the-badge&logo=AWS%20CodePipeline&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS%20CodeDeploy%20-%234D8D8F.svg?&style=for-the-badge&logo=AWS%20CodeDeploy&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS%20SES%20-%23E88D6B.svg?&style=for-the-badge&logo=AWS%20SES&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Amazon%20SQS%20-%230B6F99.svg?&style=for-the-badge&logo=Amazon%20SQS&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Amazon%20Elastic%20Beanstalk%20-%230F9D58.svg?&style=for-the-badge&logo=Amazon%20Elastic%20Beanstalk&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Amazon%20Cognito%20-%23018F74.svg?&style=for-the-badge&logo=Amazon%20Cognito&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS%20IAM%20-%23F8C146.svg?&style=for-the-badge&logo=AWS%20IAM&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Serverless%20-%23FD5750.svg?&style=for-the-badge&logo=Serverless&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" /></td>
+  </tr>
+</table>
+
+### Version Control & Collaboration
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GitLab%20-%23FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/BitBucket%20-%2300538A.svg?&style=for-the-badge&logo=BitBucket&logoColor=white" /></td>
+  </tr>
+</table>
+
+### Design & Project Management
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Jira%20-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white" /></td>
+  </tr>
+</table>
+
+
 
 </p>
 <hr>

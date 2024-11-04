@@ -1,11 +1,11 @@
-<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
-
 <h1 align="left" >Hey there <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Shivam Singh </h1>
+
+<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="400" />
 
 <h4><samp><strong>Thanks for stopping by my GitHub profile. Here, you’ll find a variety of projects I’m working on, and I’m always open to fresh ideas and improvements. Feel free to 🌟 clone or fork any repository that catches your interest, dive into the code, and see what you can build or enhance. 🛠️ If you spot any issues or have suggestions, don’t hesitate to raise them – collaboration is always welcome! And if you’re inspired to contribute, submitting a pull request would be fantastic. Let’s work together to make these projects even better! 🚀</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
-<hr>
 
+<hr>
 
 <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 

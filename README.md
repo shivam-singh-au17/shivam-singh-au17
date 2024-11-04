@@ -9,15 +9,18 @@
 
 <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 
-- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,```.ts```, ```.html``` & ```.yaml```
-- 🛠 I’m currently learning about **deep learning**🥰<br>
-- 🔥 I use to write code on **[leetcode](https://leetcode.com/shivam-singh-au17/)** <br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
-
+- 🧠 **Call me:** ***He/His*** or ***TeamWorker*** 😊  
+- 💡 **Tech Enthusiast:** Passionate about staying up-to-date with the latest in tech and development trends 🔧  
+- 🤔 **Tech I Use Daily:** `JavaScript`, `TypeScript`, `HTML`, `YAML` 🔥  
+- 🔥 **Coding Practice:** You’ll often find me solving challenges on [LeetCode](https://leetcode.com/shivam-singh-au17/) 💻  
+- 📚 **Always Learning:** Whether it’s a new programming language or framework, I’m all about continuous growth 🥰  
+- 🌱 **Looking to Collaborate On:** Contributing more to open-source projects 🌐  
+- ⚡ **Seeking Help With:** Anything I am currently learning! 😅  
+- 💬 **Ask Me About:** Anything tech-related! I’m happy to help, as long as the ball’s in my court 😉  
+- 🌍 **Global Perspective:** Open to connecting with developers worldwide to share ideas and insights 🌏  
+- 🔍 **Curiosity Drives Me:** I love digging into complex problems and finding elegant solutions 🔍  
+- ✍️ **Fun Fact:** I always try to learn something new... and then sleep to let it sink in 😎  
+- 🚀 **Life Motto:** Code, learn, improve, repeat! 🔄  
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
@@ -79,10 +82,10 @@
 <img src="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swagger%20-%2385EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jira%20-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
- <br/>
 <img src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Serverless%20-%23FD5750.svg?&style=for-the-badge&logo=Serverless&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white" />&nbsp;&nbsp;
+
 </p>
 <hr>
 

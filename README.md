@@ -7,7 +7,7 @@
 
 <hr>
 
-<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
+<h3><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;About me ....</h3>
 
 - 🧠 **Call me:** ***He/His*** or ***TeamWorker*** 😊  
 - 💡 **Tech Enthusiast:** Passionate about staying up-to-date with the latest in tech and development trends 🔧  
@@ -26,9 +26,7 @@
 
  <hr>
 
-<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
-<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/handshake.gif?raw=true" width="70" />
-
+<h3><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me .... <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/handshake.gif?raw=true" width="70" /><h3>
 
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
@@ -55,7 +53,7 @@
 <br>
 
  <hr>
- <h4><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h4>
+ <h3><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h3>
 <p >
  
 ### Frontend
@@ -93,6 +91,11 @@
     <td><img src="https://img.shields.io/badge/Swagger%20-%2385EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/Cron%20-%234B5D8C.svg?&style=for-the-badge&logo=cron&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Sequelize%20-%234B3B8C.svg?&style=for-the-badge&logo=Sequelize&logoColor=white" /></td>
+  </tr>
+  <tr>
+   <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" /></td>
+   <td><img src="https://img.shields.io/badge/joi-%233C873A.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></td>
+   <td><img src="https://img.shields.io/badge/mongoose-%23880000.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></td>
   </tr>
 </table>
 
@@ -139,6 +142,7 @@
     <td><img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/aws%20sns-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /></td>
   </tr>
 </table>
 
@@ -170,6 +174,7 @@
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" /></td>
   </tr>
 </table>
 
@@ -178,7 +183,7 @@
 <hr>
 
 
-<h4 align="center"><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+<h3 align="center"><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
 
@@ -187,9 +192,7 @@
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<p align="left">
-<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
-</p>
+<h3><p align="left"> <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> </p></h3>
 
 <p align="left" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />

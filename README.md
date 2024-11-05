@@ -53,10 +53,10 @@
 <br>
 
  <hr>
- <h3><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools....</h3>
+ <h3><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools ....</h3>
 <p >
  
-### Frontend:
+### Frontend :
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></td>
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-### Backend:
+### Backend :
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" /></td>
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-### Databases:
+### Databases :
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" /></td>
@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-### DevOps & Cloud:
+### DevOps & Cloud :
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white" /></td>
@@ -146,7 +146,7 @@
   </tr>
 </table>
 
-### Version Control & Collaboration:
+### Version Control & Collaboration :
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white" /></td>
@@ -156,7 +156,7 @@
   </tr>
 </table>
 
-### Design & Project Management:
+### Design & Project Management :
 <table>
    <tr>
     <td><img src="https://img.shields.io/badge/Confluence%20-%23172BF4.svg?&style=for-the-badge&logo=Confluence&logoColor=white" /></td>
@@ -170,7 +170,7 @@
   </tr>
 </table>
 
-### API Development & Testing:
+### API Development & Testing :
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white" /></td>
@@ -183,7 +183,7 @@
 <hr>
 
 
-<h3 align="center"><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:....</h3>
+<h3 align="center"><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes: ....</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
 
@@ -192,7 +192,7 @@
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<h3><p align="left"> <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats....</b></i> </p></h3>
+<h3><p align="left"> <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats ....</b></i> </p></h3>
 
 <p align="left" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />
@@ -216,7 +216,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 
-### 😜Here's a Joke for you....
+### 😜Here's a Joke for you ....
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />

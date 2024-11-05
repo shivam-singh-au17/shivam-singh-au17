@@ -9,17 +9,17 @@
 
 <h3><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;About me ....</h3>
 
-- 🧠 **Call me:** ***He/His*** or ***TeamWorker*** 😊  
-- 💡 **Tech Enthusiast:** Passionate about staying up-to-date with the latest in tech and development trends 🔧  
+- 🧠 **Call me:** ***He/His*** or ***TeamWorker*** 😊   
 - 🤔 **Tech I Use Daily:** `JavaScript`, `TypeScript`, `HTML`, `YAML` 🔥  
-- 🔥 **Coding Practice:** You’ll often find me solving challenges on [LeetCode](https://leetcode.com/shivam-singh-au17/) 💻  
-- 📚 **Always Learning:** Whether it’s a new programming language or framework, I’m all about continuous growth 🥰  
+- 🔥 **Coding Practice:** You’ll often find me solving challenges on [LeetCode](https://leetcode.com/shivam-singh-au17/) 💻   
 - 🌱 **Looking to Collaborate On:** Contributing more to open-source projects 🌐  
 - ⚡ **Seeking Help With:** Anything I am currently learning! 😅  
 - 💬 **Ask Me About:** Anything tech-related! I’m happy to help, as long as the ball’s in my court 😉  
 - 🌍 **Global Perspective:** Open to connecting with developers worldwide to share ideas and insights 🌏  
-- 🔍 **Curiosity Drives Me:** I love digging into complex problems and finding elegant solutions 🔍  
-- ✍️ **Fun Fact:** I always try to learn something new... and then sleep to let it sink in 😎  
+- 🔍 **Curiosity Drives Me:** I love digging into complex problems and finding elegant solutions 🔍
+- 📚 **Always Learning:** Whether it’s a new programming language or framework, I’m all about continuous growth 🥰 
+- ✍️ **Fun Fact:** I always try to learn something new... and then sleep to let it sink in 😎
+- 💡 **Tech Enthusiast:** Passionate about staying up-to-date with the latest in tech and development trends 🔧 
 - 🚀 **Life Motto:** Code, learn, improve, repeat! 🔄  
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />

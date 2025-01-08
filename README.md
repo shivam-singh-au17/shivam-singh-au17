@@ -195,7 +195,7 @@
 <h3><p align="left"> <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats ....</b></i> </p></h3>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  /> -->
 </p>
  
 <p>

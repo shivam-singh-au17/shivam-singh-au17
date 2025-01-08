@@ -189,15 +189,10 @@
 
 <hr>
 
- <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <h3><p align="left"> <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats ....</b></i> </p></h3>
 
-<p align="left" >
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  /> -->
-</p>
- 
 <p>
 <a href="https://github.com/shivam-singh-au17"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>

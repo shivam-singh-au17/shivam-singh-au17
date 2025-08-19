@@ -3,7 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shivam%20Singh&fontSize=90&fontAlignY=35&animation=twinkling&desc=Sr.%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AWS%20Specialist&descSize=25&descAlignY=60" />
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+Scalable+Systems+%F0%9F%9A%80;50K%2B+Concurrent+Users+%F0%9F%8E%AF;99.9%25+Uptime+Achievement+%E2%9A%A1;Microservices+Architecture+Expert+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=500&color=00D8FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=200&lines=👋+Welcome+to+my+Digital+Universe;🚀+Senior+Full-Stack+Engineer;⚡+Building+Systems+at+Scale;🎯+4%2B+Years+of+Innovation;💡+50K%2B+Users+%7C+99.9%25+Uptime" />
+  </div>
   
   <!-- Animated GIF -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="300" />
@@ -18,6 +20,22 @@
   About Me
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
+
+**Senior Full-Stack Engineer** with **4+ years** of experience architecting and deploying **enterprise-grade applications** that serve **50K+ concurrent users** with **99.9% uptime**.
+
+### 💼 Current Role & Expertise
+- 🎯 **Sr. Software Engineer** at Pixentech PVT. LTD.
+- 🏗️ **Microservices Architect** - Built 9+ production microservices
+- ☁️ **AWS Cloud Specialist** - Certified in modern cloud-native solutions
+- 🎮 **Gaming Platform Expert** - Real-time systems with sub-200ms latency
+- 📈 **Performance Optimizer** - Reduced deployment time by 80% and operational costs by 30%
+
+### 🎯 Professional Highlights
+- 🏆 **3x GitHub Pull Shark Award** recipient
+- 🌟 **10+ Open Source Projects** contributor
+- 🚀 **99.9% System Uptime** achievement across production environments
+- 💰 **35% Performance Improvements** through optimization strategies
+- 🔒 **ISO 27001 Compliance** expertise in enterprise security
 
 <div align="center">
   <!-- Animated Snake -->
@@ -87,26 +105,44 @@
 
 <!-- Experience Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
-  Professional Experience
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
+  🎯 Professional Experience 🎯
 </h2>
 
 <div align="center">
-  <!-- Experience Cards with Animation -->
+  
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=FF6B6B&width=300&lines=🎮+Pixentech+PVT.+LTD.;Sr.+Software+Engineer;9%2B+Microservices;50K%2B+Users;Sub-200ms+Latency" alt="Current Role" />
+        <div>
+          <h4>🚀 2024 - Present</h4>
+          <h3>Sr. Software Engineer</h3>
+          <p><strong>Pixentech PVT. LTD.</strong></p>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=2000&color=58A6FF&width=200&lines=9%2B+Microservices;50K%2B+Users;Gaming+Platform;Real-time+Systems" />
+        </div>
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=4ECDC4&width=300&lines=💼+Cidroy+Infotech;Back-End+Developer;30%25+Time+Reduction;25%25+Engagement+Boost;40%25+Response+Improvement" alt="Previous Role" />
+        <div>
+          <h4>⚡ 2023 - 2024</h4>
+          <h3>Back-End Developer</h3>
+          <p><strong>Cidroy Infotech</strong></p>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=2000&color=4ECDC4&width=200&lines=Retail+Automation;30%25+Time+Reduction;WhatsApp+Integration;Performance+Optimization" />
+        </div>
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=FFD93D&width=300&lines=🌐+Ariantech+Solutions;Full-Stack+Developer;Multi-tenant+SaaS;OAuth+2.0+%26+JWT;35%25+Security+Improvement" alt="Previous Role 2" />
+        <div>
+          <h4>🌐 2022 - 2023</h4>
+          <h3>Full-Stack Developer</h3>
+          <p><strong>Ariantech Solutions</strong></p>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=2000&color=FFD93D&width=200&lines=SaaS+Platforms;OAuth+2.0;JWT+Security;API+Optimization" />
+        </div>
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=6BCF7F&width=300&lines=🏫+DeveLearn+Institute;Junior+Back-End+Dev;Financial+Platforms;80%25+Deployment+Reduction;10K%2B+Users+Support" alt="First Role" />
+        <div>
+          <h4>🎓 2021 - 2022</h4>
+          <h3>Junior Developer</h3>
+          <p><strong>DeveLearn Institute</strong></p>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=2000&color=6BCF7F&width=200&lines=Financial+Platforms;MERN+Stack;CI%2FCD+Pipeline;10K%2B+Users" />
+        </div>
       </td>
     </tr>
   </table>
@@ -202,10 +238,7 @@
   <h3>🔥 GitHub Performance Dashboard</h3>
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
+      <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
       </td>
     </tr>
@@ -215,11 +248,8 @@
   <h3>💻 Language Distribution & Activity</h3>
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&cache_seconds=86400" alt="Top Languages" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Language Donut" />
       </td>
     </tr>
   </table>

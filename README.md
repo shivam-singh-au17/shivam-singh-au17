@@ -1,299 +1,347 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Shivam+Singh;Sr.+Software+Engineer+%7C+Full-Stack+Developer;AWS+%26+Cloud-Native+Specialist;Building+Scalable+Systems+%7C+99.9%25+Uptime" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="300" />
-</div>
-
-## 🚀 About Me
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Senior Full-Stack Engineer** with **4+ years** of experience architecting and deploying **enterprise-grade applications** that serve **50K+ concurrent users** with **99.9% uptime**.
-
-### 💼 Current Role & Expertise
-- 🎯 **Sr. Software Engineer** at Pixentech PVT. LTD.
-- 🏗️ **Microservices Architect** - Built 9+ production microservices
-- ☁️ **AWS Cloud Specialist** - Certified in modern cloud-native solutions
-- 🎮 **Gaming Platform Expert** - Real-time systems with sub-200ms latency
-- 📈 **Performance Optimizer** - Reduced deployment time by 80% and operational costs by 30%
-
-### 🎯 Professional Highlights
-- 🏆 **3x GitHub Pull Shark Award** recipient
-- 🌟 **10+ Open Source Projects** contributor
-- 🚀 **99.9% System Uptime** achievement across production environments
-- 💰 **35% Performance Improvements** through optimization strategies
-- 🔒 **ISO 27001 Compliance** expertise in enterprise security
-
----
-
-## 🛠️ Comprehensive Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Technologies
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50px" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50px" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50px" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50px" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50px" alt="React"/><br/><sub><b>React.js</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50px" alt="Redux"/><br/><sub><b>Redux</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50px" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sass" width="50px" alt="Sass"/><br/><sub><b>Sass</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50px" alt="Tailwind"/><br/><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" alt="GraphQL"/><br/><sub><b>GraphQL</b></sub></td>
-  </tr>
-</table>
-
-### ⚡ Backend Technologies
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50px" alt="Express"/><br/><sub><b>Express.js</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50px" alt="NestJS"/><br/><sub><b>NestJS</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="50px" alt="AdonisJS"/><br/><sub><b>AdonisJS</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50px" alt="Python"/><br/><sub><b>Python</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50px" alt="Socket.io"/><br/><sub><b>Socket.io</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" alt="GraphQL"/><br/><sub><b>GraphQL</b></sub></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50px" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px" alt="Sequelize"/><br/><sub><b>Sequelize</b></sub></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50px" alt="REST APIs"/><br/><sub><b>REST APIs</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50px" alt="Swagger"/><br/><sub><b>Swagger</b></sub></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="50px" alt="EJS"/><br/><sub><b>EJS</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px" alt="Jest"/><br/><sub><b>Jest</b></sub></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/354097/npm.svg" width="50px" alt="NPM"/><br/><sub><b>NPM</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" alt="Bash"/><br/><sub><b>Bash</b></sub></td>
-  </tr>
-</table>
-
-### 🗄️ Database Technologies
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50px" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50px" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50px" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dynamodb" width="50px" alt="DynamoDB"/><br/><sub><b>DynamoDB</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="50px" alt="SQL"/><br/><sub><b>SQL</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" alt="NoSQL"/><br/><sub><b>NoSQL</b></sub></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50px" alt="Atlas"/><br/><sub><b>Atlas</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px" alt="ORM"/><br/><sub><b>ORM</b></sub></td>
-    <td align="center">🔄<br/><sub><b>Cron Jobs</b></sub></td>
-  </tr>
-</table>
-
-### ☁️ Cloud & DevOps Arsenal
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50px" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="EC2"/><br/><sub><b>EC2</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="S3"/><br/><sub><b>S3</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="Lambda"/><br/><sub><b>Lambda</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="API Gateway"/><br/><sub><b>API Gateway</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="CloudFormation"/><br/><sub><b>CloudFormation</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="CloudWatch"/><br/><sub><b>CloudWatch</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="Cognito"/><br/><sub><b>Cognito</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="SES"/><br/><sub><b>SES</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="IAM"/><br/><sub><b>IAM</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50px" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50px" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="CodeBuild"/><br/><sub><b>CodeBuild</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="CodePipeline"/><br/><sub><b>CodePipeline</b></sub></td>
-    <td align="center">🚀<br/><sub><b>Serverless</b></sub></td>
-  </tr>
-</table>
-
-### 🔧 Development Tools & Platforms
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50px" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50px" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="50px" alt="GitLab"/><br/><sub><b>GitLab</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50px" alt="Bitbucket"/><br/><sub><b>Bitbucket</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50px" alt="Jira"/><br/><sub><b>Jira</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50px" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50px" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50px" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
-    <td align="center">📋<br/><sub><b>Confluence</b></sub></td>
-    <td align="center">📊<br/><sub><b>Miro</b></sub></td>
-  </tr>
-</table>
-
-### 🏗️ Architecture & Patterns
-<table>
-  <tr>
-    <td align="center">🏗️<br/><sub><b>Microservices</b></sub></td>
-    <td align="center">🔄<br/><sub><b>CI/CD</b></sub></td>
-    <td align="center">🔒<br/><sub><b>OAuth 2.0</b></sub></td>
-    <td align="center">🎯<br/><sub><b>JWT</b></sub></td>
-    <td align="center">📡<br/><sub><b>WebSockets</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center">🧪<br/><sub><b>TDD</b></sub></td>
-    <td align="center">🔍<br/><sub><b>Problem Solving</b></sub></td>
-    <td align="center">🚀<br/><sub><b>Performance Optimization</b></sub></td>
-    <td align="center">📈<br/><sub><b>Scalability</b></sub></td>
-    <td align="center">🔐<br/><sub><b>Security</b></sub></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Professional Experience
-
-<div align="left">
-
-### 🎮 **Pixentech PVT. LTD.** - *Sr. Software Engineer*
-- 🏗️ **Architected 9+ microservices** gaming platform supporting **50K+ concurrent users**
-- ⚡ Built **real-time betting system** with **sub-200ms latency** using WebSocket & Redis
-- 🔒 Developed **multi-tenant RGS APIs** with enterprise-grade security
-- 🎰 Created **slot gaming backend** with RNG algorithms and automated payout logic
-- 📈 Optimized **CI/CD pipelines** reducing deployment time by **80%**
-
-### 💼 **Cidroy Infotech** - *Back-End Developer*
-- 🤖 **Automated retail workflows** reducing operational time by **30%**
-- 📱 Integrated **WhatsApp/Telegram messaging** boosting engagement by **25%**
-- 🚀 Optimized database queries cutting response times by **40%**
-- 📊 Improved system performance by **35%** through scalable architecture
-
-### 🌐 **Ariantech Solutions** - *Full-Stack Developer*
-- 🏢 Built **multi-tenant SaaS platforms** with AWS integrations
-- 🔐 Implemented **OAuth 2.0 & JWT** reducing security vulnerabilities by **35%**
-- 👨‍🏫 **Mentored 2 junior developers** improving team efficiency
-- 🚀 Boosted API response speed by **50%**
-
-</div>
-
----
-
-## 🎯 Key Achievements & Certifications
-
-<div align="center">
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shivam%20Singh&fontSize=90&fontAlignY=35&animation=twinkling&desc=Sr.%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AWS%20Specialist&descSize=25&descAlignY=60" />
   
-[![Microservices](https://img.shields.io/badge/Certified-Microservices%20with%20Node.js%20%26%20React-success?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-[![Pull Shark](https://img.shields.io/badge/GitHub-3x%20Pull%20Shark%20Award-ff6b6b?style=for-the-badge&logo=github)](https://github.com/shivam-singh-au17)
-[![Open Source](https://img.shields.io/badge/Open%20Source-10%2B%20Projects-4ecdc4?style=for-the-badge&logo=opensource.org)](https://github.com/shivam-singh-au17)
-
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+Scalable+Systems+%F0%9F%9A%80;50K%2B+Concurrent+Users+%F0%9F%8E%AF;99.9%25+Uptime+Achievement+%E2%9A%A1;Microservices+Architecture+Expert+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  
+  <!-- Animated GIF -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="300" />
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🏅 Professional Accomplishments
-- 🎯 **99.9% System Uptime** across all production environments
-- 📈 **50K+ Concurrent Users** supported with optimized architecture
-- 🚀 **80% Deployment Time Reduction** through CI/CD optimization
-- 💡 **35% Performance Improvement** in system efficiency
-- 🔒 **ISO 27001 Compliance** implementation experience
-
----
-
-## 📊 Comprehensive GitHub Analytics
+<!-- About Section with Animation -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  About Me
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h2>
 
 <div align="center">
+  <!-- Animated Snake -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-### 🔥 GitHub Performance Dashboard
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 💻 Language Distribution & Activity
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shivam-singh-au17&theme=tokyonight&hide_border=true&v=2" alt="Coding Activity" />
-
-### 📈 Contribution Graph & Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=tokyonight" alt="Profile Details" width="100%" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=shivam-singh-au17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%" />
-
-### 📊 Detailed Analytics
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivam-singh-au17&theme=tokyonight" alt="Repos per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam-singh-au17&theme=tokyonight" alt="Most Commit Language" />
-
-### 🕐 Productivity Insights
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam-singh-au17&theme=tokyonight" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivam-singh-au17&theme=tokyonight&utc_offset=5.5" alt="Productive Time" />
-
-### 🌟 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-singh-au17&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-### 📈 Profile Summary Metrics
 <div align="center">
+  <!-- Professional Summary Cards -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=FF6B6B&width=400&lines=Senior+Full-Stack+Engineer;4%2B+Years+Experience;Enterprise+Applications+Expert;50K%2B+Concurrent+Users;99.9%25+System+Uptime" alt="Profile Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=4ECDC4&width=400&lines=Microservices+Architect;AWS+Cloud+Specialist;Gaming+Platform+Expert;Sub-200ms+Latency+Systems;Performance+Optimization+Master" alt="Expertise" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Professional Highlights with Icons -->
+<div align="center">
+  <h3>🎯 Professional Highlights</h3>
+  <table>
+    <tr>
+      <td align="center">🏆<br><b>3x GitHub<br>Pull Shark</b></td>
+      <td align="center">🌟<br><b>10+ Open Source<br>Projects</b></td>
+      <td align="center">🚀<br><b>99.9% System<br>Uptime</b></td>
+      <td align="center">💰<br><b>35% Performance<br>Improvements</b></td>
+      <td align="center">🔒<br><b>ISO 27001<br>Compliance</b></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Tech Stack Section with Animations -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Comprehensive Tech Arsenal
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<!-- Frontend Technologies -->
+<div align="center">
+  <h3>🎨 Frontend Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,sass,tailwind,graphql&theme=dark&perline=5" alt="Frontend Skills" />
+  
+  <h3>⚡ Backend Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,graphql&theme=dark&perline=5" alt="Backend Skills" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=jest,npm&theme=dark&perline=5" alt="Backend Tools" />
+  
+  <h3>🗄️ Database Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,dynamodb&theme=dark&perline=5" alt="Database Skills" />
+  
+  <h3>☁️ Cloud & DevOps Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab&theme=dark&perline=6" alt="Cloud & DevOps" />
+  
+  <h3>🔧 Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark&perline=5" alt="Development Tools" />
+</div>
+
+<!-- Animated Wave -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=100&section=header" />
+
+<!-- Experience Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
+  Professional Experience
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <!-- Experience Cards with Animation -->
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=FF6B6B&width=300&lines=🎮+Pixentech+PVT.+LTD.;Sr.+Software+Engineer;9%2B+Microservices;50K%2B+Users;Sub-200ms+Latency" alt="Current Role" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=4ECDC4&width=300&lines=💼+Cidroy+Infotech;Back-End+Developer;30%25+Time+Reduction;25%25+Engagement+Boost;40%25+Response+Improvement" alt="Previous Role" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=FFD93D&width=300&lines=🌐+Ariantech+Solutions;Full-Stack+Developer;Multi-tenant+SaaS;OAuth+2.0+%26+JWT;35%25+Security+Improvement" alt="Previous Role 2" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&color=6BCF7F&width=300&lines=🏫+DeveLearn+Institute;Junior+Back-End+Dev;Financial+Platforms;80%25+Deployment+Reduction;10K%2B+Users+Support" alt="First Role" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Projects Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
+  Featured Projects Portfolio
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <!-- Project Cards -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏍️ ONN Bikes V-2.0</h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=58A6FF&width=400&lines=Full-Stack+Rental+Platform;45%25+Booking+Efficiency+Increase;1000%2B+Concurrent+Queries;%3C300ms+Latency+Achievement" alt="ONN Bikes" />
+        <br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+      </td>
+      <td align="center" width="50%">
+        <h3>✍️ Medium Clone</h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=FF6B6B&width=400&lines=Scalable+Blogging+Platform;1000%2B+Concurrent+Readers;Real-time+Content+Delivery;Rich+Text+Editor" alt="Medium Clone" />
+        <br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏍️ ONN Bikes V-1.0</h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=4ECDC4&width=400&lines=Frontend+Showcase;Responsive+Design;Interactive+Templates;Modern+UI%2FUX" alt="ONN Bikes V1" />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🎬 Animoto Clone</h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=FFD93D&width=400&lines=Video+Creation+Platform;Template+Gallery;Pricing+Integration;Professional+UI" alt="Animoto Clone" />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Achievements Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeKMJO/giphy.gif" width="35">
+  Key Achievements & Certifications
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeKMJO/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <!-- Animated Badges -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&color=FF6B6B&center=true&width=800&lines=🏆+3x+GitHub+Pull+Shark+Award;🌟+10%2B+Open+Source+Contributions;🎯+99.9%25+System+Uptime+Achievement;📈+50K%2B+Concurrent+Users+Supported;🚀+80%25+Deployment+Time+Reduction" alt="Achievements" />
+  
+  <br><br>
+  
+  <!-- Certification Badges -->
+  [![Microservices](https://img.shields.io/badge/Certified-Microservices%20with%20Node.js%20%26%20React-success?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+  [![Pull Shark](https://img.shields.io/badge/GitHub-3x%20Pull%20Shark%20Award-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam-singh-au17)
+  [![Open Source](https://img.shields.io/badge/Open%20Source-10%2B%20Projects-4ecdc4?style=for-the-badge&logo=opensource.org&logoColor=white)](https://github.com/shivam-singh-au17)
+</div>
+
+<!-- Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=100&section=header" />
+
+<!-- GitHub Analytics Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Comprehensive GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <!-- GitHub Performance Dashboard -->
+  <h3>🔥 GitHub Performance Dashboard</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Language Distribution -->
+  <h3>💻 Language Distribution & Activity</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&cache_seconds=86400" alt="Top Languages" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-singh-au17&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Language Donut" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- GitHub Trophies -->
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam-singh-au17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&cache_seconds=86400" alt="GitHub Trophies" />
+  
+  <!-- Contribution Graph -->
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-singh-au17&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" />
+  
+  <!-- Detailed Analytics -->
+  <h3>📊 Detailed Analytics</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivam-singh-au17&theme=tokyonight&cache_seconds=86400" alt="Repos per Language" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam-singh-au17&theme=tokyonight&cache_seconds=86400" alt="Most Commit Language" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam-singh-au17&theme=tokyonight&cache_seconds=86400" alt="Stats" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivam-singh-au17&theme=tokyonight&utc_offset=5.5&cache_seconds=86400" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Profile Summary -->
+  <h3>🌟 Complete Profile Summary</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=tokyonight&cache_seconds=86400" alt="Profile Details" />
+  
+  <!-- Profile Metrics -->
+  <h3>📈 Profile Metrics</h3>
   <img src="https://komarev.com/ghpvc/?username=shivam-singh-au17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shivam-singh-au17?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shivam-singh-au17?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars" />
-</div>
-
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-05050a1a0/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SHIVAMSINGH4458)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamsingh4458)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamsingh4458@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shivam-singh-au17/)
-
-</div>
-
----
-
-## 💭 Philosophy & Approach
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-  <br>
-  <em>"Building scalable systems isn't just about code - it's about creating solutions that empower businesses to grow."</em>
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
-</div>
-
-### 🎯 Current Focus
-- 🔬 **Exploring:** Advanced Kubernetes orchestration and service mesh
-- 📚 **Learning:** Emerging cloud-native technologies and AI/ML integration
-- 🤝 **Contributing:** Open source projects and developer community
-- 🎯 **Building:** Next-generation scalable architectures
-
----
-
-<div align="center">
-
-### 😄 Developer Humor Zone
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
+  <img src="https://img.shields.io/github/stars/shivam-singh-au17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6" alt="Stars" />
   
-### 🤝 Open to Opportunities
-<em><b>I'm always interested in challenging projects and collaborations!</b></em>
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-
+  <!-- 3D Contribution Calendar -->
+  <h3>🎯 3D Contribution Calendar</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&cache_seconds=86400" alt="3D Stats" />
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  Let's Connect & Collaborate
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together&descAlignY=50&descAlign=center" />
+  <!-- Animated Social Links -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&color=58A6FF&center=true&width=800&lines=💼+Professional+Networking;🐦+Tech+Discussions;📝+Technical+Writing;📧+Direct+Communication;🧠+Problem+Solving+Challenges" alt="Connect Types" />
+  
+  <br><br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-05050a1a0/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SHIVAMSINGH4458)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamsingh4458)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamsingh4458@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shivam-singh-au17/)
+</div>
+
+<!-- Philosophy Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="35">
+  Philosophy & Current Focus
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <!-- Philosophy Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&color=FF6B6B&center=true&width=900&lines=💭+%22Building+scalable+systems+isn't+just+about+code%22;🚀+%22It's+about+creating+solutions+that+empower+businesses%22;🎯+%22Code%2C+learn%2C+improve%2C+repeat!%22;💡+%22Life+is+full+of+choices...choose+wisely!%22" alt="Philosophy" />
+  
+  <br><br>
+  
+  <!-- Current Focus -->
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h4>🔬 Exploring</h4>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&color=4ECDC4&width=200&lines=Advanced+Kubernetes;Service+Mesh;Cloud+Native+Tech" alt="Exploring" />
+      </td>
+      <td align="center" width="25%">
+        <h4>📚 Learning</h4>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&color=FFD93D&width=200&lines=AI%2FML+Integration;Emerging+Frameworks;Best+Practices" alt="Learning" />
+      </td>
+      <td align="center" width="25%">
+        <h4>🤝 Contributing</h4>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&color=6BCF7F&width=200&lines=Open+Source;Developer+Community;Knowledge+Sharing" alt="Contributing" />
+      </td>
+      <td align="center" width="25%">
+        <h4>🎯 Building</h4>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&color=FF6B6B&width=200&lines=Scalable+Architecture;Next-Gen+Solutions;Innovation+Projects" alt="Building" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Fun Section -->
+<div align="center">
+  <h3>😄 Developer Humor Zone</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+<!-- Final CTA -->
+<div align="center">
+  <h3>🤝 Open to Opportunities</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&color=58A6FF&center=true&width=700&lines=Always+interested+in+challenging+projects!;Let's+collaborate+and+build+amazing+things!;Open+to+exciting+opportunities+and+discussions!" alt="CTA" />
+  
+  <br><br>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descSize=16&descAlignY=50&descAlign=center&animation=twinkling" />
 </div>
